@@ -1,0 +1,8 @@
+/*marginStyle.css*/
+p {
+	/*margin-top: 50px;
+	margin-right: 150px;
+	margin-bottom: 100px;
+	margin-left: 80px;*/
+	margin: 50px 150px 100px 80px;
+}
